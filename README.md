@@ -1,4 +1,3 @@
-# 💫 About Me:
 # 💫About Me :<br>- 👋 Hi, I’m Chien Thang<br>- 🌱 I’m currently learning Software Engineering at FPT University HCM Campus<br>- :books: I’m currently learning Java ☕ and C# 🦈<br>- 📫 Contact me via chienthang014@gmail.com<br>
 
 
