@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chien Thang</h1>
 <h3 align="center">A passionate backend developer from FPT University</h3>
 
-- 🌱 I’m currently learning **C# ,TypeScript, React Native**
+- 🌱 I’m currently learning **C#**
 
 - 👯 I’m looking to collaborate on **Contributing to open-source projects related to web APIs.**
 
