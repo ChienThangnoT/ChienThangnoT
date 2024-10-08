@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Backend development**
 
-- 💬 Ask me about **C#**
+- 💬 Ask me about **ASP.NET, MSSQL, PostgreSQL**
 
 - 📫 How to reach me **chienthang014@gmail.com**
 
